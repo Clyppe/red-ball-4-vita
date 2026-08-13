@@ -2,8 +2,6 @@
 
 Unofficial **so-loader** port of the Android **Cocos2d-x** build of Red Ball 4.
 
-This is the same approach as [Cut the Rope on Vita](https://github.com/Clyppe/cut-the-rope-vita): a Vita homebrew loader (TheFloW `so_util` + FalsoJNI + vitaGL) that runs the real ARMv7 `libcocos2dcpp.so`. It is **not** a remake from ripped sprites.
-
 > **Legal:** This repository contains only the loader. Game data is provided separately. Do not ask for or share copyrighted APKs or `.so` files in issues.
 
 ## Downloads
