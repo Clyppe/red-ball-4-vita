@@ -10,7 +10,7 @@ This is the same approach as [Cut the Rope on Vita](https://github.com/Clyppe/cu
 
 | What | Where |
 |------|--------|
-| **VPK** (loader) | [GitHub Releases](../../releases) — install `RedBall4.vpk` |
+| **VPK** (loader) | [GitHub Releases](https://github.com/Clyppe/red-ball-4-vita/releases) — install `RedBall4.vpk` |
 | **Data files** | [MediaFire — REDBALL4DATA.zip](https://www.mediafire.com/file/ioa5bk8217k3zgh/REDBALL4DATA.zip) |
 
 ## Status
@@ -31,7 +31,7 @@ The Unity 6 XAPK (`arm64-v8a` / IL2CPP) **cannot** be used with so-loader.
 
 ## Install (players)
 
-1. Download **`RedBall4.vpk`** from [Releases](../../releases) and install it (VitaShell / Package Installer).
+1. Download **`RedBall4.vpk`** from [Releases](https://github.com/Clyppe/red-ball-4-vita/releases) and install it (VitaShell / Package Installer).
 2. Download **[REDBALL4DATA.zip](https://www.mediafire.com/file/ioa5bk8217k3zgh/REDBALL4DATA.zip)** and extract so you have an `rdball4` folder.
 3. Copy that folder to the Vita as:
 
