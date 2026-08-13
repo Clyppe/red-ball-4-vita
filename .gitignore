@@ -1,0 +1,29 @@
+﻿# Build outputs
+soloader-boilerplate/build/
+*.vpk
+eboot.bin
+
+# Copyrighted / user-provided game data
+data-pack/
+extracted/
+apk-inspect/
+vpk/
+*.apk
+**/libcocos2dcpp.so
+**/game.apk
+
+# Local SDK / toolchains (do not ship)
+tools/vdpm/
+tools/make/
+tools/pngquant/
+tools/make-win.zip
+tools/vitasdk-softfp.tar.bz2
+
+# Scratch / debug assets
+glyph0.png
+tools/_*.png
+tools/_*.txt
+**/__pycache__/
+*.bak
+.DS_Store
+Thumbs.db
